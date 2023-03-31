@@ -1,0 +1,102 @@
+@font-face {
+    font-family: RetroBold;
+    src: url(Fonts/PIXEAB__.TTF);
+
+}
+@font-face {
+    font-family: Retro;
+    src: url(Fonts/PIXEARG_.TTF);
+}
+h1#headOne {
+    font-family: RetroBold;
+    text-align: center;
+    margin-bottom: 20px;
+    min-width : 636px;
+    max-height: 58.36px;
+}
+span#dont {
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    margin-right: 77px;
+    margin-top: 5px;
+}
+
+.meat {
+    border: 5px;
+    border-style: dotted;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 60px;
+    padding-top: 7px;
+    width: 220px;
+    height: 225px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+h2 {
+    padding-bottom: 30px;
+    font-family: RetroBold;
+}
+form label {
+    text-align: left;
+    display: inline-block;
+    width: 157px;
+    margin-right: 10px;
+  }
+  
+.box {
+    font-family: Retro;
+}
+input[type="submit"]{
+    font-family: Retro;
+    margin-top: 7px;
+    margin-left: 105px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color:darkslategray;
+}
+.meatOne {
+    border: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: dotted;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 30px;
+    width: 170px;
+    height: 300px;
+}
+form {
+    font-family: Retro;
+}
+span#pageTwo {
+    font-family: Retro;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    margin-right: 71px;
+}
+header {
+	font-family: RetroBold;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-right: 100px;
+    height:100px;
+    align-items: stretch;
+}
+#sign {
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+#signUpBtn {
+    margin-left:91px;
+}
